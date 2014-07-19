@@ -13,6 +13,9 @@ A curated list of awesome Domain Driven Design resources inspired by [Awesome PH
 - People to follow in Twitter
     - [Vaughn Vernon](https://twitter.com/VaughnVernon)
     - [Mathias Verraes](https://twitter.com/mathiasverraes)
+- Training
+    - [Domain Language](http://domainlanguage.com/)
+    - [iDDD workshop](http://idddworkshop.com/)
 
 
 **Disclaimer**: I am by no means an expert in this field. In fact I've been writing "controller heavy" applications for a long time and only discovered Domain Driven Design a couple of months ago.
