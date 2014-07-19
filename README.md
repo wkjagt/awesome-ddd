@@ -10,12 +10,18 @@ A curated list of awesome Domain Driven Design resources inspired by [Awesome PH
 - Blogs
     - [Mathias Verraes](http://verraes.net/#blog)
     - [Vaughn Vernon](http://vaughnvernon.co/)
+    - [Chris Fidao](http://fideloper.com/)
 - People to follow in Twitter
     - [Vaughn Vernon](https://twitter.com/VaughnVernon)
     - [Mathias Verraes](https://twitter.com/mathiasverraes)
+    - [Chris Fidao](https://twitter.com/fideloper)
 - Training
     - [Domain Language](http://domainlanguage.com/)
     - [iDDD workshop](http://idddworkshop.com/)
+    - [Workshops with Mathias Verraes](http://verraes.net/workshops/)
+- Resources
+    - [DDD Community](http://dddcommunity.org/)
+    - [DDD in PHP](https://groups.google.com/forum/m/#!forum/dddinphp)
 
 
 **Disclaimer**: I am by no means an expert in this field. In fact I've been writing "controller heavy" applications for a long time and only discovered Domain Driven Design a couple of months ago.
