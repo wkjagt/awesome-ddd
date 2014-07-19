@@ -1,7 +1,8 @@
 #Awesome Domain Driven Design
 
 
-A curated list of awesome Domain Driven Design resources inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php) and [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin).
+A curated list of awesome Domain Driven Design resources inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php) and [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin). I am by no means an expert in this field. In fact I've been writing "controller heavy" applications for a long time and only discovered Domain Driven Design a couple of months ago. I feel DDD can be the answer to many problems that are often encountered when applications start breaking when they reach a certain level of complexity. The goal of this list is to provide developers that are experiences these problems with an entry into DDD.
+
 
 
 - Books
@@ -24,4 +25,3 @@ A curated list of awesome Domain Driven Design resources inspired by [Awesome PH
     - [DDD in PHP](https://groups.google.com/forum/m/#!forum/dddinphp)
 
 
-**Disclaimer**: I am by no means an expert in this field. In fact I've been writing "controller heavy" applications for a long time and only discovered Domain Driven Design a couple of months ago.
