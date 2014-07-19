@@ -16,6 +16,8 @@ A curated list of awesome Domain Driven Design resources inspired by [Awesome PH
     - [Vaughn Vernon](https://twitter.com/VaughnVernon)
     - [Mathias Verraes](https://twitter.com/mathiasverraes)
     - [Chris Fidao](https://twitter.com/fideloper)
+- Talks
+    - [Eric Evans: What I've learned about DDD since the book](https://www.youtube.com/watch?v=lE6Hxz4yomA)
 - Training
     - [Domain Language](http://domainlanguage.com/)
     - [iDDD workshop](http://idddworkshop.com/)
