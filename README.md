@@ -1,11 +1,7 @@
-Awesome Domain Driven Design
-============================
-
-A curated list of awesome Domain Driven Design resources inspired by Awesome PHP and Awesome Sysadmin:
+#Awesome Domain Driven Design
 
 
-- https://github.com/ziadoz/awesome-php
-- https://github.com/kahun/awesome-sysadmin
+A curated list of awesome Domain Driven Design resources inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php) and [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin).
 
 
 - Books
@@ -13,6 +9,7 @@ A curated list of awesome Domain Driven Design resources inspired by Awesome PHP
     - [Implementing Domain-Driven Design - Vaughn Vernon](http://www.amazon.ca/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
 - Blogs
     - [Mathias Verraes](http://verraes.net/#blog)
+    - [Vaughn Vernon](http://vaughnvernon.co/)
 - People to follow in Twitter
     - [Vaughn Vernon](https://twitter.com/VaughnVernon)
     - [Mathias Verraes](https://twitter.com/mathiasverraes)
